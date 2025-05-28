@@ -1,0 +1,59 @@
+PROJECT: SHEIKH & CHIC ($SNC)
+
+GOAL:
+Create a mysterious, luxurious and interactive one-page website for the meme token SHEIKH & CHIC ($SNC), inspired by Middle Eastern aesthetics and mysticism. The site should feel like a dark, magical tale with deep narrative and visual atmosphere.
+
+STYLE:
+- Dark mysterious theme
+- Neon & gold accents
+- Visuals inspired by desert nights, camels, sheikhs, magic coins
+- Inspired by images provided (with glowing effects and Arab-chic vibes)
+- All animations should be smooth, elegant and magical
+- Fonts: serif (like Cinzel Decorative) for main headings, with modern sans-serif for body
+
+STRUCTURE:
+1. **Intro Block** (fullscreen):
+   - Background: `banner.png`
+   - Logo in center: `logo.jpg`
+   - Glowing text: “SHEIKH & CHIC”
+   - Below: tagline “LAUNCHING AT PUMP.FUN”
+   - Smooth text fade-in + soft golden shimmer on logo
+   - Scroll hint with animation (e.g. floating arrow)
+
+2. **Story Block** ("The Origin of the Sheikh"):
+   - Dark desert background, soft stars
+   - Long scrollable story (min. 200 words) with slow typewriter animation or fade-in per paragraph
+   - Text example:
+     > In the depths of the golden dunes, where the moonlight touches the sand like silver fire, a sheikh found a coin unlike any other. It shimmered with secrets, whispered by the wind. The legend said it could summon unimaginable wealth—but only to those with style...
+
+3. **Tokenomics Block**:
+   - Animated stats counter (e.g. Total Supply counting up)
+   - Large gold coin spinning in center
+   - 4 cards with hover effects for key metrics:
+     - Total Supply: 1,000,000,000
+     - 100% LP Burned
+     - No Taxes
+     - Community-Driven
+
+4. **Gallery Block**:
+   - Show all provided images (1.png to 4.jpg), displayed fully (no cropping)
+   - Horizontal scrollable layout with parallax + fade-ins
+
+5. **The Mirror of Truth Block** (interactive):
+   - Image of a reflective coin (or character with glowing eyes)
+   - When hovered, screen shows secret prophecy line (animated text)
+   - “Your fate with $SNC is...”
+
+6. **Join Us Block**:
+   - Call to action with golden “BUY ON PUMP.FUN” button
+   - Twitter icon glowing (no Telegram)
+   - Optional: subtle shimmer over button on hover
+
+NOTES:
+- Ensure responsiveness and visual clarity on mobile
+- Use layered animations (fog, glowing effects, sparkles)
+- Add magical SFX if possible (on scroll or hover)
+- No wallet connect or dApp functionality needed
+
+ASSETS:
+- Use `logo.jpg`, `banner.png`, `1.png`, `2.png`, `3.png`, `4.jpg`
